@@ -1,0 +1,12 @@
+[1,2,3,4]
+
+head -> 1
+tail -> 2,3,4
+
+tail (tail [1,2,3,4]) -> [3,4]
+
+"SANTOS" !! 3 -> 'T' (pega o indice)
+
+reverse "SANTOS" -> "OSTNAS"
+
+repeat 7 -> lista infinita
